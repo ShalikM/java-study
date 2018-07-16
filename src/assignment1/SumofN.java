@@ -3,7 +3,7 @@ package assignment1;
 public class SumofN {
 
 	public static void main(String[] args) {
-		sum_n(5);
+		sum_n(10);
 		
 	}
    
