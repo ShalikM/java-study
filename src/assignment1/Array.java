@@ -3,7 +3,7 @@ package assignment1;
 public class Array {
 
 	public static void main(String[] args) {
-		int[] arr = {1,2,3};
+		int[] arr = {12,24,36};
 		System.out.println("The maximum value of the array is: "+maxArray(arr));
 		System.out.println("The minimum value of the array is: "+minArray(arr));
 		System.out.println("The average of the array values is: "+avgArray(arr));
